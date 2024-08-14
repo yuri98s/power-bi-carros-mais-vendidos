@@ -1,6 +1,7 @@
 # Power BI - Carros mais vendidos
 
 Você pode acessar o dashboard através deste [link](https://app.powerbi.com/view?r=eyJrIjoiMzdhNTM5YTQtNWFmNC00NmQ2LWFjYzktODY4NjM5MzdkZDY4IiwidCI6IjU5MGYyZjMyLWU2OTgtNDFmMy1iZTMzLTU2ZDFmNzMwNjNmZSJ9).
+![Dashboard](https://github.com/yuri98s/power-bi-carros-mais-vendidos/blob/main/Dashboard/Dashboard.jpeg)
 ## Arquivos
 **Base de dados:**
 
